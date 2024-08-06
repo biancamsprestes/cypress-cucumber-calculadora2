@@ -1,0 +1,15 @@
+
+{
+  "name": "cypress-cucumber-example",
+  "version": "1.0.0",
+  "description": "Exemplo de projeto de automação de testes com Cypress e Cucumber",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "chai": "^4.3.4"
+  }
+}
